@@ -32,13 +32,13 @@ input:focus {
 }
 
 button {
-  background: #0000FF
+  background: #131377
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  color: #FFFFFF;
+  color: #653d3d;
   padding: 10px;
-  box-shadow: inset 0 -3px 0 0 #4801A5;
+  box-shadow: inset 0 -3px 0 0 #6f6877;
 }
 
 button:active {
